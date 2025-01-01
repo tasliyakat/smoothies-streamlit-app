@@ -8,8 +8,7 @@ st.write(
     """Choose your fruit.
     """
 )
- 
- 
+  
 name_on_orders = st.text_input("Name on Smoothie: ")
 st.write("The name of your smoothie will be ", name_on_orders)
  
